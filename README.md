@@ -17,8 +17,6 @@ Pastikan Anda sudah menginstall :
 git https://github.com/fanifh11/dashboard-csharp.git
 ```
 
-
-
 #### 2. Edit Form1.cs
 edit sesuai dengan lokasi directory aplikasi Anda
 ```c
