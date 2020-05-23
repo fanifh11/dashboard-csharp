@@ -25,7 +25,7 @@ edit sesuai dengan lokasi directory aplikasi Anda
 
 ## Team Pengembang
 - Fani Fadillah Hermawan [18051203003] -> Full stack
-- Wirawan Dwi Prasetya [18051204026] -> Database
+- Wirawan Dwi Prasetya [18051204026] -> Merancang Database
 - M. Arsy Akbar 
 - M. Rifki Agustian
 
