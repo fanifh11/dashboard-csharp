@@ -1,5 +1,5 @@
 # dashboard-csharp
-# Simpel Dashboard 
+# Simpel Dashboard Jasa Ekspedisi NEXT-AGENCY
 Dashboard simpel yang berisi kumpulan chart menggunakan library LiveCharts dan MetroModernUI. menggunakan bahasa pemrograman C#.
 
 ## Syarat
@@ -26,8 +26,8 @@ edit sesuai dengan lokasi directory aplikasi Anda
 ## Team Pengembang
 - Fani Fadillah Hermawan [18051203003] -> Full stack
 - Wirawan Dwi Prasetya [18051204026] -> Merancang Database
-- M. Arsy Akbar 
-- M. Rifki Agustian
+- M. Arsy Akbar [18051204017]
+- M. Rifki Agustian [18051204034]
 
 ## Program Pendukung
 - Microsoft Visual Studio 2019
