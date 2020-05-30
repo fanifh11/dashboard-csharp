@@ -1,0 +1,10 @@
+Judul Project :
+Dashboard sederhana kurir NEXT-AGENCY
+
+Kelas : Teknik Informatika A 2018
+
+Nama Anggota kelompok berserta Jobdesc
+1. Fani Fadillah Hermawan (18051204003) -> FullStack
+2. Wirawan Dwi Prasetta (18051204026) -> Merancang database
+3. M. Arsy Akbar (18051204017)
+4. M. Rifki Agustian (18051204034)
